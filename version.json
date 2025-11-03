@@ -1,5 +1,5 @@
 {
   "version_name": "V2.2",
-  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.2/MBC.2.2.apk",
+  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.2/MBC.2.2.apk?raw=true",
   "update_note": "업데이트 내용\n- 자동 업데이트 기능 추가\n- 인증키 검증 속도 개선\n- 안정성 향상"
 }
