@@ -1,5 +1,5 @@
 {
-  "version_name": "2.2",
-  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.2/MBC.2.2.apk?raw=true",
-  "update_note": "\n- 업데이트 기능 추가\n- 서버 검증 속도 개선\n- 안정성 향상"
+  "version_name": "2.3",
+  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.3/MBC.2.3.apk",
+  "update_note": "\n- 자동 예약 감지 개선\n- 서버 안정성 향상\n- 차량번호 변경 추가"
 }
