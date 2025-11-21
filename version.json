@@ -1,5 +1,5 @@
 {
-  "version_name": "2.4",
-  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.4/MBC.2.4.apk",
-  "update_note": "\n- 예약 기능 개선\n- 로그인 유지 개선\n- 보호모드 삭제"
+  "version_name": "2.5",
+  "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.5/MBC.2.5.apk",
+  "update_note": "\n- 자동 실행 개선"
 }
