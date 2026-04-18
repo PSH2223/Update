@@ -1,5 +1,5 @@
 {
-  "version_name": "2.6.5",
+  "version_name": "2.6.7",
   "apk_url": "https://github.com/PSH2223/Update/releases/download/V2.6.5/MBC.2.6.5.apk",
-  "update_note": "\n- 서버 변경"
+  "update_note": "\n- *서버 안정성 향상\n *예약 기능 개선"
 }
